@@ -8,5 +8,6 @@ namespace ejer02
 {
     public class Class1
     {
+        // Hola
     }
 }
